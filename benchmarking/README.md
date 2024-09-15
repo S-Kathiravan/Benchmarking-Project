@@ -23,16 +23,17 @@ _These steps assume a Mac/Linux/Unix shell environment. If using Windows, you wi
 
 Clone the starter kit repo.
 ```bash
-git clone 
+git clone https://github.com/S-Kathiravan/Benchmarking-Project.git
 ```
 
 ## Set up the inference endpoint, and environment variables
 
-The next step is to set up your environment variables to use one of the models available from SambaNova. If you're a current SambaNova customer, you can deploy your models with SambaStudio. If you are not a SambaNova customer, you can self-service provision API endpoints using SambaNova Cloud.
+### Setup SambaNova Cloud
 
-- If using **SambaNova Cloud** Please follow the instructions [here](../README.md#use-sambanova-cloud-option-1) for setting up your environment variables.
+The next step is to set up your environment variables to use one of the models available from SambaNova. If you're a current SambaNova customer, you can deploy your models with SambaNova Cloud. If you are not a SambaNova customer, you can self-service provision API endpoints using SambaNova Cloud.
 
-- If using **SambaStudio** Please follow the instructions [here](../README.md#use-sambastudio-option-2) for setting up endpoint and your environment variables.
+- **SambaNova Cloud**: Please follow the instructions [here](../README.md#use-sambanova-cloud-option-1) for setting up your environment variables.
+
 
 ## Create the (virtual) environment
 1. (Recommended) Create a virtual environment and activate it (python version 3.11 recommended): 
