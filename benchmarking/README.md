@@ -69,7 +69,7 @@ streamlit run streamlit/app.py --browser.gatherUsageStats false
 
 After deploying the starter kit, you will see the following user interface:
 
-![benchmarking/Starter_pg](benchmarking/Starter_pg)
+<img src="benchmarking/streamlit/Starter_pg.png">
 
 ### Quickstart 
 
